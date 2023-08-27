@@ -1,5 +1,0 @@
-#SAHIL FARTYAL
-Name: SAHIL SINGH FARTYAL
-Skills: C++ Programming, C Programming, JavaScript, Node.js, React.js, Html, DBMS, MongoDB, MySQL, WordPress, REST API
-Email: sahilfartyal3@gmail.com
-?SAHIL FARTYAL
